@@ -1,6 +1,6 @@
-📚 I’m currently studying at SENAI Osasco.
-🌱 I’m currently learning: Python, JavaScript, TypeScript, HTML, CSS.
-💜 Fun fact: I love Flamengo and Andy Samberg!
+# 💫 About Me:
+📚 I’m currently studying at SENAI Osasco.<br>🌱 I’m currently learning: Python, JavaScript, TypeScript, HTML, CSS.<br>💜 Fun fact: I love Flamengo and Andy Samberg!<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giselleluuz) 
@@ -15,7 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Giselleluz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!---
-Giselleluz/Giselleluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
