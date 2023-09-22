@@ -2,7 +2,7 @@
 📚 I’m currently studying at SENAI Osasco.<br>🌱 I’m currently learning: Python, JavaScript, TypeScript, HTML, CSS.<br>💜 Fun fact: I love Flamengo and Andy Samberg!<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giselleluuz) 
 
 # 💻 Tech Stack:
