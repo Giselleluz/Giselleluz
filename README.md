@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently studying at SENAI Osasco.<br>🌱 I’m currently learning: Python, JavaScript, TypeScript, HTML, CSS.<br>💜 Fun fact: I love Flamengo and Andy Samberg!<br>
+📚 I’m currently studying at SENAI Osasco.<br>🌱 I’m currently learning: Python, JavaScript, TypeScript, HTML, CSS.<br>
 
 
 # 🌐 Socials:
