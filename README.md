@@ -1,5 +1,7 @@
 # 💫 About Me:
-📚 I’m currently studying at SENAI Osasco.<br>🌱 I’m currently learning: Python, JavaScript, TypeScript, HTML, CSS.<br>
+🎓 Estudante de Sistemas de Informação.
+💻 Estou aprendendo: Python, JavaScript, React e Flutter.
+🚀 Buscando minha primeira oportunidade na área de desenvolvimento. 
 
 
 # 🌐 Socials:
