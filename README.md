@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Estudante de Sistemas de Informação.<br>
-💻 Estou aprendendo: Python, JavaScript, React e Flutter.<br>
+💻 Estou estudando: Python, JavaScript, React, Node.js e Flutter.<br>
 🚀 Buscando minha primeira oportunidade na área de desenvolvimento.<br> 
 
 
