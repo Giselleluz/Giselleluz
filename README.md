@@ -7,7 +7,7 @@
 
 ## ✨ **Sobre mim**
 Sou estudante de **Sistemas de Informação** e desenvolvedora **Front-end**, apaixonada por criar soluções criativas e funcionais.  
-Tenho experiência em **HTML, CSS, JavaScript, React e Flutter**, e gosto de explorar novas tecnologias para aprimorar meus projetos.
+Tenho experiência em **HTML, CSS, JavaScript, Python e Flutter**, e gosto de explorar novas tecnologias para aprimorar meus projetos.
 
 ---
 
