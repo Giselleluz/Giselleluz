@@ -1,51 +1,23 @@
-<!-- Banner ou imagem no topo -->
-![Banner](https://i.imgur.com/Zy6qX2P.png)
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff7f50&height=200&section=header&text=Olá,%20eu%20sou%20a%20Giselle!&fontSize=35&fontColor=ffffff&animation=twinkling)
 
-<h1 align="center">👋 Olá, eu sou a Giselle Luz</h1>
-<h3 align="center">💻 Estudante de Sistemas de Informação | Desenvolvedora em formação</h3>
+<!-- Efeito de digitação -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF7F50&size=30&center=true&vCenter=true&width=800&lines=Estudante+de+Sistemas+de+Informação;Desenvolvedora+Front-end;Apaixonada+por+tecnologia+e+inovação)](https://git.io/typing-svg)
 
+---
+
+## 📊 Minhas Estatísticas
+| GitHub Stats | Linguagens mais usadas |
+|--------------|------------------------|
+| ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=donut&theme=radical) |
+
+---
+
+## 🚀 Tecnologias
 <p align="center">
-  🌟 Apaixonada por tecnologia, inovação e criar soluções que gerem impacto real.  
-  🚀 Sempre em busca de aprender e compartilhar conhecimento.  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,nodejs,mongodb,figma,bootstrap,git,github" />
 </p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,nodejs,mongodb,figma,bootstrap,git,github,vscode" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-- 🍔 **[Sistema para Hamburgueria](https://github.com/SEUUSUARIO/seurepositorio)** – Catálogo online com API e pedidos.
-- 🎯 **AchouServiço** – Plataforma estilo "Tinder dos Serviços".
-- 📱 **App Flutter** – Onboarding interativo.
-
----
-
-## 🏆 Conquistas
-- 🥇 Premiada no **Grand Prix SENAI**
-- 💡 Desenvolvimento de protótipos de alta fidelidade
-- 🎓 Participação em competições e projetos acadêmicos
-
----
-
-## 📬 Contato
-<p align="center">
-  <a href="mailto:SEUEMAIL"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/SEULINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-✨ *"A tecnologia é a ponte entre um sonho e a realidade."*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff7f50&height=150&section=footer)
