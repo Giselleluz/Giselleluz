@@ -5,27 +5,27 @@
 
 ---
 
-##  **Sobre mim**
+## ✨ **Sobre mim**
 Sou estudante de **Sistemas de Informação** e desenvolvedora **Front-end**, apaixonada por criar soluções criativas e funcionais.  
 Tenho experiência em **HTML, CSS, JavaScript, React e Flutter**, e gosto de explorar novas tecnologias para aprimorar meus projetos.
 
 ---
 
-##  Minhas Estatísticas
+## ✨ Minhas Estatísticas
 | GitHub Stats | Linguagens mais usadas |
 |--------------|------------------------|
 | ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=donut&theme=radical) |
 
 ---
 
-##  Tecnologias
+## ✨ Tecnologias
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,nodejs,figma,bootstrap,github" />
 </p>
 
 ---
 
-##  Contato e Redes
+## ✨ Contato e Redes
 <p align="center">
   <a href="mailto:giselleluz6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
