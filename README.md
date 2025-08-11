@@ -1,20 +1,35 @@
-# 💫 About Me:
-🎓 Estudante de Sistemas de Informação.<br>
-💻 Estou estudando: Python, JavaScript, React, Node.js e Flutter.<br>
-🚀 Buscando minha primeira oportunidade na área de desenvolvimento.<br> 
+# 🌟 Olá, eu sou a Giselle Luz!
 
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giselleluuz) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Giselleluz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Giselleluz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleluz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Estudante de Sistemas de Informação 
+💻 Apaixonada por desenvolvimento web e mobile  
+🚀 Buscando sempre aprender e criar soluções inovadoras
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Giselleluz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Tecnologias
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=React)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=Flutter)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB)
+
+---
+
+## 📊 Minhas Estatísticas
+![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projetos em Destaque
+- 🍔 **Sistema para Hamburgueria** – Catálogo online com API.
+- 🎯 **AchouServiço** – Plataforma estilo "Tinder dos Serviços".
+- 📱 **App Flutter** – Onboarding interativo.
+
+---
+
+📫 **Conecte-se comigo:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
