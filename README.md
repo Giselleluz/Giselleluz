@@ -1,12 +1,10 @@
 <h1 align="center">Oi 👋, eu sou a Giselle Luz</h1>
 <h3 align="center">💻 Estudante de Sistemas de Informação | Criando soluções com propósito</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🚀 Atualmente trabalhando em **AchouServiço**
-- 📚 Estudando **React, Node.js e Flutter**
-- 🏆 Premiada no **Grand Prix SENAI**
-- 💌 Contato: **seuemail@gmail.com**
+🎓 Estudante de **Sistemas de Informação**  
+💻 Apaixonada por desenvolvimento web e mobile  
+🚀 Buscando sempre aprender e criar soluções inovadoras
 
 ---
 
