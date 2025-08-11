@@ -5,7 +5,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+##  **Sobre mim**
 Sou estudante de **Sistemas de Informação** e desenvolvedora **Front-end**, apaixonada por criar soluções criativas e funcionais.  
 Tenho experiência em **HTML, CSS, JavaScript, React e Flutter**, e gosto de explorar novas tecnologias para aprimorar meus projetos.
 
@@ -20,23 +20,20 @@ Tenho experiência em **HTML, CSS, JavaScript, React e Flutter**, e gosto de exp
 
 ## 🚀 Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,nodejs,mongodb,figma,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,nodejs,figma,bootstrap,github" />
 </p>
 
 ---
 
 ## 📫 Contato e Redes
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:giselleluz6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seulinkedin" target="_blank">
+  <a href="https://linkedin.com/in/giselle-luz-leite" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/seunumero" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://github.com/SEUUSUARIO" target="_blank">
+  <a href="https://github.com/Giselleluz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
