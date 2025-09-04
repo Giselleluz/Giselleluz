@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Olá,%20eu%20sou%20a%20Giselle!&fontSize=35&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000080&size=30&center=true&vCenter=true&width=800&lines=Hi,+my+name+is+Giselle;I+am+18+years+old;Information+Systems+Student;Welcome!)](https://git.io/typing-svg)
 
