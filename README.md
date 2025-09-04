@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Olá,%20eu%20sou%20a%20Giselle!&fontSize=35&fontColor=ffffff&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000080&size=30&center=true&vCenter=true&width=800&lines=Estudante+de+Sistemas+de+Informação;Desenvolvedora+Front-end;Apaixonada+por+tecnologia+e+inovação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000080&size=30&center=true&vCenter=true&width=800&lines=Hi,+my+name+is+Giselle;I+am+18+years+old;Information+Systems+Student;Welcome!)](https://git.io/typing-svg)
 
 ---
 
@@ -14,7 +14,7 @@ Tenho experiência em **HTML, CSS, JavaScript, Python e Flutter**, e gosto de ex
 ## ✨ Minhas Estatísticas
 | GitHub Stats | Linguagens mais usadas |
 |--------------|------------------------|
-| ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=donut&theme=radical) |
+| ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giselleluz&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleluz&layout=donut&theme=radical) |
 
 ---
 
