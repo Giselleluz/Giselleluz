@@ -22,9 +22,8 @@ I have experience with HTML, CSS, JavaScript, Python, and Flutter, and I enjoy e
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giselleluz&theme=onedark&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Giselleluz&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
----
 
 ## ✨ Technologies
 <p align="center">
