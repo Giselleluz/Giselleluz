@@ -16,10 +16,14 @@ I have experience with HTML, CSS, JavaScript, Python, and Flutter, and I enjoy e
 ---
 
 ## ✨ My Stats
-| GitHub Stats | Most used languages |
-|--------------|------------------------|
-| [![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giselleluz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giselleluz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Giselleluz&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Giselleluz&theme=onedark&column=6" alt="GitHub Trophies" />
+</p>
 ---
 
 ## ✨ Technologies
