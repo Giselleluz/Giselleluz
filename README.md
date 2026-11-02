@@ -1,7 +1,11 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000080&height=140&section=header&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=140&section=header)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000080&size=30&center=true&vCenter=true&width=800&lines=Hi,+my+name+is+Giselle;I+am+18+years+old;Information+Systems+Student;Welcome!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00D2FF&center=true&vCenter=true&width=800&lines=Hi,+my+name+is+Giselle;I+am+18+years+old;Information+Systems+Student;Welcome!" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -14,7 +18,7 @@ I have experience with HTML, CSS, JavaScript, Python, and Flutter, and I enjoy e
 ## ✨ My Stats
 | GitHub Stats | Most used languages |
 |--------------|------------------------|
-| ![Giselle's GitHub stats]([https://github-readme-stats.com/api?username=Giselleluz&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Giselleluz&show_icons=true&theme=radical)) | ![Top Langs](https://github-readme-stats.com/api/top-langs/?username=Giselleluz&layout=donut&theme=radical) |
+| ![Giselle's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Giselleluz&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Giselleluz&layout=donut&theme=radical) |
 
 ---
 
@@ -40,4 +44,4 @@ I have experience with HTML, CSS, JavaScript, Python, and Flutter, and I enjoy e
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=000080&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=150&section=footer)
