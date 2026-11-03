@@ -1,30 +1,29 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=160&section=header)
 
 <h1 align="center">Hi there! I'm Giselle Luz 👋</h1>
 
-<h3 align="center">Full Stack Developer | Java & React | Database Modeling | DevOps</h3>
+<h3 align="center">Full Stack Developer | Java & Spring Boot | React | Databases & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Exploring+Software+Architecture+%26+Databases;Learning+and+Growing+Every+Day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code;Learning%2C+building+and+breaking+things;Exploring+the+world+of+Full+Stack+Development!" />
 </p>
 
 ---
 
 ## ✨ About Me
 
-I'm an Information Systems student and Systems Analyst Jr. at **Vivo (Telefônica Brasil)**, passionate about software development, technology, and problem-solving.
+Hey! I'm a Systems Analyst Jr. at **Vivo (Telefônica Brasil)** and an Information Systems student who loves exploring the tech world.
 
-Currently, I'm expanding my knowledge and working with **Full Stack Development**, using Java and React to build applications, alongside database modeling, data management, and DevOps practices.
+Currently, I'm working and learning more about **Full Stack Development**, building applications with Java, Spring Boot and React. I'm also getting hands-on experience with database modeling, PostgreSQL, Databricks and DevOps using Azure DevOps.
 
-I'm always looking for opportunities to learn new technologies, improve my skills, and build solutions that make a difference.
+I enjoy learning new things, facing challenges and figuring out how to turn ideas into working solutions. There's always something new to explore! 🚀
 
-- 🎓 Bachelor's student in Information Systems.
+- 🎓 Studying Information Systems.
 - 💼 Systems Analyst Jr. at Vivo.
-- 💻 Working with Full Stack Development (Java & React).
-- 🗄️ Studying database modeling and management.
-- ☁️ Exploring DevOps practices and Azure DevOps.
-- 🚀 Always learning and developing new skills.
+- 💻 Working with Java, Spring Boot and React.
+- 🗄️ Exploring database modeling, PostgreSQL and Databricks.
+- ☁️ Learning more about DevOps and Azure DevOps.
+- 💡 Always curious about new technologies and ways to build better things.
 
 ---
 
@@ -50,7 +49,7 @@ I'm always looking for opportunities to learn new technologies, improve my skill
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
-**Other Technologies & Experience**
+**Also worked with**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,nodejs" />
@@ -84,7 +83,5 @@ I'm always looking for opportunities to learn new technologies, improve my skill
 </p>
 
 <p align="center">
-  <i>Always learning, building, and exploring new possibilities through technology.</i>
+  <i>Curious mind, endless learning and lots of code! 💜</i>
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=120&section=footer)
