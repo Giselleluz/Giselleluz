@@ -1,13 +1,11 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=160&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=160&section=header&fontColor=ffffff&font= Poppins)
 
-<h1 align="center">Hi there! I'm Giselle Luz 👋</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer | Java & React | Database Modeling | DevOps</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Giselle+Luz;Full+Stack+Developer;Java+%7C+React+%7C+Databases+%7C+DevOps" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Exploring+Software+Architecture+%26+Databases;Learning+and+Growing+Every+Day!" />
-</p>
+</div>
 
 ---
 
@@ -32,27 +30,27 @@ I'm always looking for opportunities to learn new technologies, improve my skill
 
 **Backend & Frontend**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css" />
 </p>
 
 **Databases & Data**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://img.shields.io/badge/Databricks-EA3E2F?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 **DevOps & Tools**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,figma" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
 **Other Technologies & Experience**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,nodejs" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
