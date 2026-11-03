@@ -33,7 +33,7 @@ I enjoy learning new things, facing challenges and figuring out how to turn idea
 **Backend & Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=spring,react,js,html,css" />
 </p>
 
 **Databases & Data**
