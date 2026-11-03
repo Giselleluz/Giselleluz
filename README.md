@@ -1,8 +1,9 @@
 <!-- Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=160&section=header)
 
-<h1 align="center">Hi there! I'm Giselle Luz 👋</h1>
+<h1 align="center">Hi there! I'm Giselle Luz </h1>
 
-<h3 align="center">Full Stack Developer | Java & Spring Boot | React | Databases & DevOps</h3>
+<h3 align="center">Full Stack Developer | Spring Boot | React | Databases & DevOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code;Learning%2C+building+and+breaking+things;Exploring+the+world+of+Full+Stack+Development!" />
@@ -18,12 +19,12 @@ Currently, I'm working and learning more about **Full Stack Development**, build
 
 I enjoy learning new things, facing challenges and figuring out how to turn ideas into working solutions. There's always something new to explore! 🚀
 
-- 🎓 Studying Information Systems.
-- 💼 Systems Analyst Jr. at Vivo.
-- 💻 Working with Java, Spring Boot and React.
-- 🗄️ Exploring database modeling, PostgreSQL and Databricks.
-- ☁️ Learning more about DevOps and Azure DevOps.
-- 💡 Always curious about new technologies and ways to build better things.
+- Studying Information Systems.
+- Systems Analyst Jr. at Vivo.
+- Working with Spring Boot and React.
+- Exploring database modeling, PostgreSQL and Databricks.
+- Learning more about DevOps and Azure DevOps.
+- Always curious about new technologies and ways to build better things.
 
 ---
 
@@ -32,7 +33,7 @@ I enjoy learning new things, facing challenges and figuring out how to turn idea
 **Backend & Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=spring,react,js,html,css,python" />
 </p>
 
 **Databases & Data**
@@ -85,3 +86,6 @@ I enjoy learning new things, facing challenges and figuring out how to turn idea
 <p align="center">
   <i>Curious mind, endless learning and lots of code! 💜</i>
 </p>
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4b0082&height=150&section=footer)
