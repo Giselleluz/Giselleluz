@@ -13,7 +13,7 @@
 
 ## ✨ About Me
 
-Hey! I'm a Systems Analyst Jr. at **Vivo (Telefônica Brasil)** and an Information Systems student who loves exploring the tech world.
+Hey! I'm a Systems Analyst Jr. and an Information Systems student who loves exploring the tech world.
 
 Currently, I'm working and learning more about **Full Stack Development**, building applications with Java, Spring Boot and React. I'm also getting hands-on experience with database modeling, PostgreSQL, Databricks and DevOps using Azure DevOps.
 
